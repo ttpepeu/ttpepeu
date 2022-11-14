@@ -1,6 +1,6 @@
 ### Olá! Eu sou Pedro Trindade
 
-- 🔭 Hoje estou trabalhando com recenseador
+- 🔭 Hoje estou trabalhando como recenseador
 - 🌱 Estundando Excel
 - 😄 Pronomes: ele/dele
 
