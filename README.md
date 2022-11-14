@@ -1,4 +1,4 @@
-### Olá! Eu sou Pedro Trindade
+### Eaiiii! Eu sou Pedro Trindade, bem vindo ao meu repositório
 
 - 🔭 Hoje estou trabalhando como recenseador
 - 🌱 Estundando Excel, Python, MySQL e Power BI
