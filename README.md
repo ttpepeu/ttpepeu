@@ -1,7 +1,7 @@
 ### Olá! Eu sou Pedro Trindade
 
 - 🔭 Hoje estou trabalhando como recenseador
-- 🌱 Estundando Excel
+- 🌱 Estundando Excel, Python, MySQL e Power BI
 - 😄 Pronomes: ele/dele
 
 <div align="center">
