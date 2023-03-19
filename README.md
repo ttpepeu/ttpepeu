@@ -1,6 +1,6 @@
 ### Eaiiii! Eu sou Pedro Trindade e bem vindo ao meu repositório
 
-- 🔭 Hoje estou trabalhando como recenseador
+- 🔭 Atualmente procurando uma oportunidade
 - 🌱 Estundando Excel, Python, MySQL e Power BI
 - 😄 Pronomes: ele/dele
 
