@@ -1,7 +1,7 @@
 ###  Oiiii! Sou Pedro Trindade e bem vindo ao meu repositório
 
-- 🔭 Atualmente procurando uma oportunidade
-- 🌱 Estundando Excel, Python, MySQL e Power BI
+- 🔭 Atualmente sou Desenvolvedor de Chatbot
+- 🌱 Estundando Machine Learning
 - 😄 Pronomes: ele/dele
 
 <div align="center">
