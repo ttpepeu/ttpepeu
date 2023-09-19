@@ -1,24 +1,51 @@
-###  Oiiii! Sou Pedro Trindade e bem vindo ao meu repositório
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
 
-- 🔭 Atualmente sou Desenvolvedor de Chatbot
-- 🌱 Estundando Machine Learning
-- 😄 Pronomes: ele/dele
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!!!,+My+name's+Pedro+Trindade;I'm+22+years+old;I'm+Brazilian;I'm+an+RPA+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+
+### About me... 👨🏽‍🎓
+
+💻 I'm an RPA Developer
+
+🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br)
+
+👩‍💻 Focused on Python, Excel and Automation Anywhere. 
+
+🔎 My hobbies are watch American football, Baseball and Movies.
+
+### My knowledge🔧
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RPA](https://icons8.com.br/icon/wj64HuimhBit/configura%C3%A7%C3%B5es-3)
+![Excel](https://icons8.com.br/icon/117561/microsoft-excel-2019)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<!-- ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/ttpepeu">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killjoybr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttpepeu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+### Contact 📭
+<div>
+<a href="https://www.twitch.tv/ttpepeu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ttpepeu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/ttpepeu_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
-  <a href="https://github.com/ttpepeu">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ttpepeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpepeu&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/538424260696473611/1041710647462858772/GarfieldSmilingGIF.gif">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ttpepeu}/count.svg" /></p> 
+<br>
 </div>
 
-## 
-
-<div> 
-  <a href="https://www.linkedin.com/in/ttpepeu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
