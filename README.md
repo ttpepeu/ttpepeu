@@ -10,7 +10,7 @@
 
 👩‍💻 Focused on Python, Excel and Automation Anywhere. 
 
-🎡 My hobbies are watch American football, Baseball and movies on the weekend, during week I like workout.
+🎡 My hobbies are watch american football, baseball and movies on the weekend, during week I like workout.
 
 ### My knowledges🧠
 
