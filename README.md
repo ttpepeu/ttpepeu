@@ -4,9 +4,9 @@
 
 ### About me... 👨🏽‍🎓
 
-💻 I'm an RPA Developer
+💻 I'm an RPA Developer.
 
-🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br)
+🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br).
 
 👩‍💻 Focused on Python, Excel and Automation Anywhere. 
 
@@ -30,7 +30,7 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/ttpepeu">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killjoybr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpepeu&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttpepeu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
