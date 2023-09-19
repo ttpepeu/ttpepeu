@@ -10,13 +10,12 @@
 
 👩‍💻 Focused on Python, Excel and Automation Anywhere. 
 
-🔎 My hobbies are watch American football, Baseball and Movies.
+🎡 My hobbies are watch American football, Baseball and movies on the weekend, during week I like workout.
 
-### My knowledge🔧
+### My knowledges🧠
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RPA](https://icons8.com.br/icon/wj64HuimhBit/configura%C3%A7%C3%B5es-3)
-![Excel](https://icons8.com.br/icon/117561/microsoft-excel-2019)
+![Excel](https://img.shields.io/badge/Excel-Microsoft?style=for-the-badge&logo=microsoftexcel)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
