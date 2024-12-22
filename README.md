@@ -4,11 +4,11 @@
 
 ### About me... 👨🏽‍🎓
 
-💻 I'm an RPA Developer.
+💻 I'm an Information Security Analyst.
 
 🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br).
 
-👩‍💻 Focused on Python, Excel and Automation Anywhere. 
+👩‍💻 Focused on Python, Linux, Windows. 
 
 🎡 My hobbies are watch american football, baseball and movies on the weekend, during week I like workout.
 
