@@ -8,7 +8,7 @@
 
 🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br).
 
-👩‍💻 Focused on Python, Linux, Windows. 
+👩‍💻 Focused on Java, SpringBoot, AWS. 
 
 🎡 My hobbies are watch american football, baseball and movies on the weekend, during week I like workout.
 
@@ -17,7 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
