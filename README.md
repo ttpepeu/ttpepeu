@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E7CC3&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!!!,+My+name's+Pedro+Trindade;I'm+24+years+old;I'm+Brazilian;I'm+an+RPA+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E7CC3&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!!!,+My+name's+Pedro+Trindade;I'm+24+years+old;I'm+Brazilian;I'm+an+BackEnd+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 ### About me... 👨🏽‍🎓
 
-💻 I'm an Information Security Analyst.
+💻 I'm a BackEnd Developer.
 
 🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br).
 
@@ -14,8 +14,8 @@
 
 ### My knowledges🧠
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Microsoft?style=for-the-badge&logo=microsoftexcel)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,9 +36,7 @@
 
 ### Contact 📭
 <div>
-<a href="https://www.twitch.tv/ttpepeu" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ttpepeu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/ttpepeu_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
